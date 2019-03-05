@@ -1,0 +1,40 @@
+body{
+  background: linear-gradient(to bottom, rgb(50, 50, 50), black) no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1{
+  display: inline;
+  background: none;
+  max-width: 20px;
+  font-size: 24px;
+  font-weight: normal;
+
+}
+
+h2{
+  font-family: 20px;
+  display: inline;
+  max-width: 25px;
+  background: orange 30px 30px;
+  color: black;
+  border: 2px solid orange;
+  border-radius: 5px;
+  font-weight: thick;
+}
+
+img{
+  height: 25%;
+  width: 25%;
+  margin: 1%;
+}
+
+
+#pictures{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: flex-end;
+}

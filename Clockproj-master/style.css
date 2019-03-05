@@ -1,0 +1,23 @@
+body {
+  background-color: red;
+}
+
+#color{
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  position: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 200%;
+  text-align: center;
+}
+
+div{
+  background: white;
+  width: 50%;
+  margin: 0;
+  position: flex;
+  justify-content: center;
+  align-items: center;
+}
